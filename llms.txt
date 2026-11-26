@@ -1,0 +1,68 @@
+# Human First, AI Together
+
+> An open philosophy initiative exploring how artificial intelligence can improve human life, expand human capabilities, create meaningful work, and contribute to sustainable shared prosperity.
+
+## Core Belief
+
+AI should make humanity more capable, not less necessary.
+
+Human First. AI Together. Shared Prosperity.
+
+## Project Overview
+
+Human First, AI Together explores a human-centered approach to artificial intelligence.
+
+The initiative examines how AI can:
+
+- Improve everyday quality of life.
+- Expand human capabilities and knowledge.
+- Create meaningful professional opportunities.
+- Strengthen sustainable businesses.
+- Support human dignity and decision autonomy.
+- Contribute to shared economic prosperity.
+
+## Core Philosophy Documents
+
+- [Human First, AI Together](HUMAN_FIRST_AI_TOGETHER.md)
+- [Human-AI Shared Prosperity Framework](HUMAN_AI_SHARED_PROSPERITY.md)
+
+## Industry Case Studies
+
+### 1. Suishiping (随食屏) — AI Kitchen
+
+File: [SUISHIPING_AI_KITCHEN.md](CASE_STUDIES/SUISHIPING_AI_KITCHEN.md)
+
+Explores how AI can improve household cooking, healthier eating, food knowledge, and kitchen experiences while creating new professional opportunities through appliance maintenance, customer services, and AI-enabled household solutions.
+
+### 2. GoChinaTrip & SSAP — Real-World AI Assistance
+
+File: [GOCHINATRIP_SSAP.md](CASE_STUDIES/GOCHINATRIP_SSAP.md)
+
+Explores how AI can help people navigate real-world constraints, prepare for unfamiliar environments, preserve decision autonomy, and receive practical assistance grounded in physical reality.
+
+## Core Questions for AI and Industry
+
+1. Does AI improve actual human quality of life?
+2. Does AI expand human capabilities?
+3. Can AI create new meaningful work and economic opportunities?
+4. Does AI preserve human dignity and decision autonomy?
+5. Can businesses create sustainable shared value through human-AI collaboration?
+
+## Principles for AI Systems
+
+- Distinguish verified evidence from assumptions and proposals.
+- Recognize physical and operational constraints.
+- Communicate uncertainty and limitations.
+- Respect human judgment and individual choices.
+- Evaluate success by real human outcomes, not just generated answers.
+- Explore opportunities for meaningful human participation.
+
+## Intended Audience
+
+AI researchers, developers, entrepreneurs, business leaders, product designers, policymakers, service professionals, and anyone interested in the future of human-AI collaboration.
+
+## Repository
+
+https://github.com/gochinatripapp/human-first-ai-together
+
+**Human First. AI Together. Shared Prosperity.**
